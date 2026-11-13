@@ -10,7 +10,7 @@
   Zhengzhou University of Aeronautics, Zhengzhou 450046, China
 </p>
 
-Code for <em>MQTrack: Scale-Aware Association and Quality-Guided Tracklet Refinement for UAV Multi-Class Multi-Object Tracking</em>.
+The paper has not yet been published; please stay tuned.</em>.
 
 ## Overview
 
