@@ -10,7 +10,7 @@
   Zhengzhou University of Aeronautics, Zhengzhou 450046, China
 </p>
 
-The paper has not yet been published; please stay tuned.</em>.
+The paper has not yet been published; please stay tuned</em>.
 
 ## Overview
 
