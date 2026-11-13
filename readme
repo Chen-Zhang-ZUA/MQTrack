@@ -2,3 +2,9 @@ MQTrack: Scale-Aware Association and Quality-Guided Tracklet Refinement for UAV 
 
 
 The article has not yet been published; please stay tuned.
+---
+
+## Architecture
+![DFS-YOLO Architecture](images/fig.png)
+
+---
