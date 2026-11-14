@@ -92,8 +92,4 @@ src/qtr_evidence_backfill.py  Optional recovery-evidence support
 
 `SOURCE_PROVENANCE.json` records hashes of unchanged core sources and describes the packaging adaptations. The model factory in this distribution exposes DLA, and the image loader retains the inference-specific routines. Parameters and association/refinement formulas are preserved.
 
-## Acknowledgements and license
 
-The project builds on [MCMOT](https://github.com/CaptainEven/MCMOT), [FairMOT](https://github.com/ifzhang/FairMOT), and their DLA/CenterNet components. Related tracking mechanisms include appearance-guided correspondence in [AMOT](https://github.com/ydhcg-BoBo/AMOT) and tracklet interval processing in [HIT](https://github.com/dyhBUPT/HIT). Deformable convolution is supplied by torchvision.
-
-The original MCMOT MIT license and copyright notice are retained in `LICENSE`. Dependencies retain their respective licenses. Checkpoint and dataset distribution terms belong to their respective providers.
